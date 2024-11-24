@@ -1,2 +1,2 @@
 # Projects
-This project has been done as a part of my coursework, CS F213 - Object Oriented Prograaming
+Projects in this repository include my personal projects along with projects done as a part of my coursework.
